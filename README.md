@@ -1,4 +1,4 @@
-# CM5-Modular-Handheld-System
+# Modu-pi system
 Experimental modular handheld architecture, for cheaper rapid prototyping
 
 This will take a while to do, basically consists of a standard motherboard design + multiple different controller daughterboards
